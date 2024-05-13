@@ -34,7 +34,7 @@ ___
     ```
 - jarからexeにコンパイル
   - Launch4jをインストール  
-    以下のサイトからLaunch4jをインストールします。
+    以下のサイトからLaunch4jをインストールします。  
     [Install Launch4j](https://launch4j.sourceforge.net/ "Launch4j Home")  
   - Launch4jの設定等はググったほうがわかりやすいです。 
   - Restart the application after a crashはオフを推奨します。何かしらソフトにエラーがありうまく起動できない際、常に再実行され無駄に重くなるためです。
