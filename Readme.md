@@ -4,7 +4,7 @@ AIに頼りまくった超手抜きソフトです、99%AI製です
 Java11.0.20.1で作成してます
 > [!IMPORTANT]
 > 実行に当たってJREのインストールが必須となります。JDKにJREは含まれるので、以下のサイトからJDKのインストールをあらかじめ行い、パスを通してください。  
->[Oracle JDK](https://www.oracle.com/java/technologies/downloads/ "Oracle Java Downloads")  
+>[Install Oracle JDK](https://www.oracle.com/java/technologies/downloads/ "Oracle Java Downloads")  
 ## 使い方
 - そのまま実行するとシステムタスクトレイ内に表示されます。毎回起動するのも面倒なのでスタートアップ登録をお勧めします。
   - Battery.exeを任意のディレクトリに配置し、ショートカットを作成します。
